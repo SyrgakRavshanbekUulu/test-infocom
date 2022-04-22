@@ -1,0 +1,30 @@
+.navbarContainer {
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+
+.navbarContainer a {
+  color: black;
+  text-decoration-line: none;
+}
+
+
+.navbarDropDown a {
+  color: black!important;
+}
+
+.navbarActive a {
+  color: rgb(166, 255, 0)!important;
+}
+
+.active {
+  color: rgb(166, 255, 0)!important;
+}
+.navbarDropDownItem a {
+  color: black!important;
+}
+
+.navbarDropDownItemActive a {
+  color: rgb(166, 255, 0)!important;
+}
